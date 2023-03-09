@@ -1,0 +1,11 @@
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\bin\Debug\homework1.exe.config
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\bin\Debug\homework1.exe
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\bin\Debug\homework1.pdb
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.csproj.AssemblyReference.cache
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.csproj.SuggestedBindingRedirects.cache
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.Form1.resources
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.Properties.Resources.resources
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.csproj.GenerateResource.cache
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.exe
+C:\Users\朱俊杰\Desktop\SoftwareConstruction\homework1\homework1\obj\Debug\homework1.pdb
